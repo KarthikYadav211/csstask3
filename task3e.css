@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(10, 111, 18);
+    text-align: end;
+  }
+  p {
+    text-align: center;
+    color: rgb(225, 9, 88);
+    font-size: 200%;
+  }
+  ol {
+    color: blueviolet;
+    text-align: center;
+    font-size: 150%;
+  }
